@@ -25,7 +25,7 @@ source miami/bin/activate
 Now we're ready to install the dependencies.  From the top level directory run:
 
 ```
-pip install -r output/requirements.txt
+pip install -r requirements.txt
 ```
 
 
