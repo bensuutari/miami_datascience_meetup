@@ -1,1 +1,5 @@
 miami/
+.ipynb_checkpoints/
+.DS_Store
+models/ner_checkpoint_test.h5
+
