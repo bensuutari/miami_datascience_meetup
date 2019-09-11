@@ -28,6 +28,10 @@ Now we're ready to install the dependencies.  From the top level directory run:
 pip install -r requirements.txt
 ```
 
+Finally, with the `miami` environment activated, run the Jupyter Notebook to get started with the code
 
+```
+jupyter notebook hands_on_nlp.ipynb
+```
 
 
